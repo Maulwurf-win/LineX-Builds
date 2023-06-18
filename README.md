@@ -2,7 +2,7 @@
 The most recent build of my own little game, centered around moving Bars
 
 P.S. Current problem with releasing MacOS-Release, so that for now, new
-Releases will only be made punlic for Windows
+Releases will only be made public for Windows
 
 Changelog:
 ---------------------------------------------------------
