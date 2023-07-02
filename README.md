@@ -1,10 +1,14 @@
 # LineX-Builds
 The most recent build of my own little game, centered around moving Bars
 
-P.S. Current problem with releasing MacOS-Release, so that for now, new
-Releases will only be made public for Windows
+P.S. Current problem with MacOS/-Release, so no gurantee that it will work.
 
 Changelog:
+---------------------------------------------------------
+0.1 (Alpha) Windows/Linux/Mac
+July 02, 2023:
+Minor Gameplay-Overhaul and Bug-Fixes
+Added 2. Level and Credits
 ---------------------------------------------------------
 0.04 (Alpha) Windows
 June 18, 2023: 
@@ -24,3 +28,5 @@ Added a first (placeholder) Options-Menu with one "Song"
 May 30, 2023:
 First release for Windows and MacOS
 ---------------------------------------------------------
+
+Special Thanks to Semjon Kononov
