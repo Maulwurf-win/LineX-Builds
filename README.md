@@ -5,8 +5,8 @@ P.S. Current problem with MacOS/-Release, so no gurantee that it will work.
 
 Changelog:
 ---------------------------------------------------------
-0.1 (Alpha) Windows/Mac
-July 02, 2023:
+0.11 (Alpha) Windows/Mac
+October 29, 2023:
 Updated Options-Menu
 Added 2. Level and Credits
 ---------------------------------------------------------
