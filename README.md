@@ -1,16 +1,21 @@
 # LineX-Builds
 The most recent build of my own little game, centered around moving Bars
 
-P.S. Current problem with MacOS/-Release, so no gurantee that it will work.
+P.S. Current problem with MacOS/Linux-Release, so no gurantee that it will work.
 
 Changelog:
 ---------------------------------------------------------
-0.13 (Alpha) Windows
-October 29, 2023:
+0.5 (Beta) Windows/Mac
+December 14, 2023:
+Added new levels
+Added new mechanic
+---------------------------------------------------------
+0.13 (Beta) Windows
+December 11, 2023:
 Completly reworked and improved soundtrack
 Updated Credits
 ---------------------------------------------------------
-0.12 (Alpha) Windows
+0.12 (Beta) Windows
 October 29, 2023:
 Improved UI
 Improved UX
