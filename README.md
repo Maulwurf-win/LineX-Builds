@@ -5,6 +5,16 @@ P.S. Current problem with MacOS/-Release, so no gurantee that it will work.
 
 Changelog:
 ---------------------------------------------------------
+0.13 (Alpha) Windows
+October 29, 2023:
+Completly reworked and improved soundtrack
+Updated Credits
+---------------------------------------------------------
+0.12 (Alpha) Windows
+October 29, 2023:
+Improved UI
+Improved UX
+---------------------------------------------------------
 0.11 (Alpha) Windows/Mac
 October 29, 2023:
 Updated Options-Menu
