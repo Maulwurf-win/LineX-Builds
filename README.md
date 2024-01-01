@@ -5,6 +5,10 @@ P.S. Current problem with MacOS/Linux-Release, so no gurantee that it will work.
 
 Changelog:
 ---------------------------------------------------------
+1.0 (Windows)
+Januar 01, 2024:
+Major bug fix
+---------------------------------------------------------
 0.5 (Beta) Windows/Mac
 December 14, 2023:
 Added new levels
